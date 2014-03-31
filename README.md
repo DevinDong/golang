@@ -1,2 +1,3 @@
 Project for GoLang.
-Contains basic algorithms such as sort.
+Used to study my GoLang and review my algorithms.
+Main Contains basic algorithms such as sort.
