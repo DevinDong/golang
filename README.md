@@ -1,2 +1,2 @@
-project for golang.
-contains of basic algorithms such as sort.
+Project for GoLang.
+Contains basic algorithms such as sort.
