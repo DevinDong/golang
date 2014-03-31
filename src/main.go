@@ -4,7 +4,7 @@ main package.
 package main
 
 import (
-	. "./algorithm"
+	. "./algorithms/sorter"
 	"fmt"
 )
 
