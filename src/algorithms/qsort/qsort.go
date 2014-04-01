@@ -1,3 +1,6 @@
+/*
+Basic QuickSort
+*/
 package qsort
 
 type QuickSort struct {
