@@ -4,13 +4,8 @@ import (
 	"testing"
 )
 
-var isort ISort
-
-func Init() {
-	isort = new(QuickSort)
-}
-
 func TestQuickSort1(t *testing.T) {
+	isort := new(QuickSort)
 	values := []int{5, 4, 3, 2, 1}
 	//call
 	isort.Sort(values)
@@ -21,6 +16,7 @@ func TestQuickSort1(t *testing.T) {
 }
 
 func TestQuickSort2(t *testing.T) {
+	isort := new(QuickSort)
 	values := []int{5, 5, 3, 2, 1}
 	//call
 	isort.Sort(values)
@@ -31,6 +27,7 @@ func TestQuickSort2(t *testing.T) {
 }
 
 func TestQuickSort3(t *testing.T) {
+	isort := new(QuickSort)
 	values := []int{5}
 	//call
 	isort.Sort(values)
