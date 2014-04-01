@@ -1,4 +1,4 @@
-package sorter
+package main
 
 import (
 	"algorithms/sorter/qsort"

@@ -1,4 +1,4 @@
-package sorter
+package qsort
 
 type QuickSort struct {
 }

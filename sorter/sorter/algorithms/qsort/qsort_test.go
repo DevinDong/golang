@@ -1,4 +1,4 @@
-package sorter
+package qsort
 
 import (
 	"testing"
